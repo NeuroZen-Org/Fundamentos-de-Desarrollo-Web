@@ -6,7 +6,7 @@ requiere descargas!** Solo abre tu navegador web.
 **Público objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación
 **Prerrequisitos**: Ninguno
 **Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)
-**� Repositorio de código fuente**: [https://github.com/yourusername/webdev-courseteamname](https://github.com/yourusername/webdev-course-teamname)
+**� Repositorio de código fuente**: [https://github.com/NeuroZen-Org/Fundamentos-de-Desarrollo-Web.git](https://github.com/NeuroZen-Org/Fundamentos-de-Desarrollo-Web.git)
 ## Secuencia de la lección
 
 ### Lección 1: ¿Qué es un sitio web? + Estructura básica de HTML | Curso HTML y CSS #1
@@ -24,23 +24,23 @@ requiere descargas!** Solo abre tu navegador web.
 - **Enlace**: [Ver la lección](https://youtu.be/9BXFQdTbwnk?si=3ly0MARGSOQJTJNn)
 - **Práctica**: [Clic para programar](https://codepen.io/pen/?template=your-starter) � **¡Comienza al instante!**
   
-### Lección 4: Introducción a CSS (12 minutos)
-- **Descripción**: Dale estilo a tu HTML con colores, fuentes y diseños.
+### Lección 4: Errores comunes en HTML y CSS + Consejos prácticos para principiantes | Curso HTML y CSS #4
+- **Descripción**: Los errores más frecuentes que cometen los principiantes en HTML y CSS. Te damos recomendaciones prácticas para escribir mejor código, evitar problemas y avanzar con confianza en tu aprendizaje. ¡Aprende de los errores y mejora rápido!
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link4)
 - **Práctica**: [Aplicar estilo con un clic](https://codepen.io/pen/?template=your-starter) � **¡No es necesario registrarse!**
   
 
 ## Recursos Adicionales
-- **Código Fuente Completo**: [Repositorio de GitHub](https://github.com/yourusername/webdev-course-teamname)
+- **Código Fuente Completo**: [Repositorio de GitHub](https://github.com/NeuroZen-Org/Fundamentos-de-Desarrollo-Web.git)
 - **Todas las Actividades Prácticas**:
 | Lección # | Actividad | Empezar a Programar |
-|----------|----------|-------------|
-| 1 | Explorar Sitios Web | [CodePen](https://codepen.io/your-lesson1) |
-| 2 | Primera página HTML | [CodePen](https://codepen.io/your-lesson2) |
-| 3 | Añadir imágenes | [JSFiddle](https://jsfiddle.net/your-lesson3) |
-| 4 | Estilo de la página | [CodePen](https://codepen.io/your-lesson4) |
-| 5 | Página de perfil | [Replit](https://replit.com/@your-lesson5) |
-- Cuestionario: [Pon a prueba tus conocimientos](https://forms.gle/your-quiz)
+|-----------|-----------|---------------------|
+| 1 | ¿Qué es un sitio web? + Estructura básica de HTML | [CodePen](https://codepen.io/pen/?template=your-starter) |
+| 2 | Encabezados, párrafos, listas, imágenes y enlaces + Primeros pasos con CSS | [CodePen](https://codepen.io/pen/?template=your-starter) |
+| 3 | Dale estilo a tu página: colores, bordes y contenido centrado + Tu primera web | [CodePen](https://codepen.io/pen/?template=your-starter) |
+| 4 | Errores comunes en HTML y CSS + Consejos prácticos para principiantes | [CodePen](https://codepen.io/pen/?template=your-starter) |
+
+
 - Compartir: #WebDevBeginners
 **¡Gracias por completar el curso!**
   
