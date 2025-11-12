@@ -26,15 +26,16 @@ requiere descargas!** Solo abre tu navegador web.
   
 ### Lección 4: Errores comunes en HTML y CSS + Consejos prácticos para principiantes | Curso HTML y CSS #4
 - **Descripción**: Los errores más frecuentes que cometen los principiantes en HTML y CSS. Te damos recomendaciones prácticas para escribir mejor código, evitar problemas y avanzar con confianza en tu aprendizaje. ¡Aprende de los errores y mejora rápido!
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link4)
+- **Enlace**: [Ver la lección](https://youtu.be/QSI0MPpuiWo?si=YqbHNOc-5ixz7FpA)
 - **Práctica**: [Aplicar estilo con un clic](https://codepen.io/pen/?template=your-starter) � **¡No es necesario registrarse!**
   
 
 ## Recursos Adicionales
 - **Código Fuente Completo**: [Repositorio de GitHub](https://github.com/NeuroZen-Org/Fundamentos-de-Desarrollo-Web.git)
 - **Todas las Actividades Prácticas**:
+  
 | Lección # | Actividad | Empezar a Programar |
-|-----------|-----------|---------------------|
+|-----------|------------------------------------------------------|-----------------------------------------------------------|
 | 1 | ¿Qué es un sitio web? + Estructura básica de HTML | [CodePen](https://codepen.io/pen/?template=your-starter) |
 | 2 | Encabezados, párrafos, listas, imágenes y enlaces + Primeros pasos con CSS | [CodePen](https://codepen.io/pen/?template=your-starter) |
 | 3 | Dale estilo a tu página: colores, bordes y contenido centrado + Tu primera web | [CodePen](https://codepen.io/pen/?template=your-starter) |
